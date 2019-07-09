@@ -19,7 +19,7 @@ def sms():
     F = request.values.get('From')
     T = request.values.get('To')
     B = request.values.get('Body')
-    message = '{0} From: {1} -> {2}'.format(B, F, rand() )
+    message = '{2}'.format(B, F, rand() )
 
     print(message)
     resp = MessagingResponse()
