@@ -13,7 +13,7 @@ def rand():
         chosen_row = random.choice(list(reader))
         chosen_row = ' '.join(chosen_row)
     return(chosen_row)
-
+#Twilio baby 
 @app.route("/sms", methods=['GET', 'POST'])
 def sms():
     F = request.values.get('From')
