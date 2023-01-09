@@ -1,5 +1,5 @@
 # wisdombot-heroku
-Running JayBo's Wisdom Bot on Heroku
+Running JayBo's Wisdom Bot on Heroku, originally developed with David Colon in summer 2019. 
 
 
 ## To get the new files and layout
