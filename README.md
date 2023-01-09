@@ -1,5 +1,6 @@
 # wisdombot-heroku
-Running JayBo's Wisdom Bot on Heroku, originally developed with David Colon in summer 2019. 
+Running JayBo's Wisdom Bot on Heroku, originally developed with David Colon in summer 2019.
+
 
 ## To get the new files and layout
  - git clone https://github.com/yelpspoon/wisdombot-heroku.git
